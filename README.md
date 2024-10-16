@@ -12,11 +12,8 @@ The HR Analytics Dashboard is designed to help organizations improve employee pe
 
     •	KPI-Based Charts: Visualizations based on key metrics such as Attrition, Average Age, Average Salary, and Years at the Company.
 
-    
     •	Department Filtering: Ability to filter data by departments, including Human Resources, Research and Development, and Sales.
 
-    
     •	Gender Analysis: A KPI chart displaying the number of male and female employees in the organization.
 
-    
 The dashboard is created using Power BI Desktop, and the raw data is available in the HR Analytics.csv file.
