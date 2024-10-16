@@ -4,6 +4,9 @@ HR Analytics Dashboard project aimed at enhancing employee performance and reduc
 
 
 **Project Overview**
+
+
+
 The HR Analytics Dashboard is designed to help organizations improve employee performance and retention by providing insights through various key performance indicators (KPIs). The dashboard includes the following features:
     •	KPI-Based Charts: Visualizations based on key metrics such as Attrition, Average Age, Average Salary, and Years at the Company.
     •	Department Filtering: Ability to filter data by departments, including Human Resources, Research and Development, and Sales.
